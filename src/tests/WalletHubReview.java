@@ -25,7 +25,10 @@ public class WalletHubReview {
 	public static WebDriver driver;
 	static String baseurl="https://wallethub.com/join/light";
 	static String review_sub_url="http://wallethub.com/profile/test_insurance_company/";
-	static String review_verification_url="https://wallethub.com/profile/rohitnegi548/reviews/";
+	//change username in below URL
+	static String review_verification_url="https://wallethub.com/profile/username/reviews/";
+	
+	
 	
 	//change username and password here for login
 	String username="";

@@ -33,6 +33,6 @@ public class Facebooklogin {
 	String username="";
 	String password="";
   
-Run Facebook/Wallethub tests with TestNG OR use testng.xml
+<ul><li>Run Facebook/Wallethub tests with TestNG OR use testng.xml</li></ul>
 
 <b>Automation test results:</b> Check Video Folder: <b>WalletHub-Assignment/Video/Test Results.mp4</b>

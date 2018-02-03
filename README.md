@@ -13,4 +13,4 @@ Build module WalletHub-app with Maven
 Resolve TODO (insert credentials for login/pass in tests class)
 Run Facebook/Wallethub tests with TestNG OR use testng.xml
 
-Automation test results: Check Video Folder
+Automation test results: Check Video Folder: WalletHub-Assignment/Video/Test Results.mp4

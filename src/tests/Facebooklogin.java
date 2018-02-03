@@ -25,8 +25,8 @@ public class Facebooklogin {
 	public static WebDriver driver;
 	static String baseurl="http://www.facebook.com";
 	//change username and password here for login
-	String username="rohitnegi548@gmail.com";
-	String password="krt@123456";
+	String username="";
+	String password="";
 	String post_msg="Hello World";
 	
 	

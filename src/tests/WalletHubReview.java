@@ -28,8 +28,8 @@ public class WalletHubReview {
 	static String review_verification_url="https://wallethub.com/profile/rohitnegi548/reviews/";
 	
 	//change username and password here for login
-	String username="rohitnegi548@gmail.com";
-	String password="Asdf#123";
+	String username="";
+	String password="";
 	
 	
 	@BeforeMethod

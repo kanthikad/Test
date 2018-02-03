@@ -9,10 +9,10 @@ Completed with selenium + testng, Tested on Chrome only as maven project
 
 How to run it (<b>Tested on Windows only</b>)
 
-Install: java jdk 1.8, chrome latest version 
-git clone 
-Build module WalletHub-app with Maven 
-Resolve TODO (insert credentials for login/pass in tests class) 
+<ul><li>Install: java jdk 1.8, chrome latest version</li> 
+	<li>git clone</li> 
+	<li>Build module WalletHub-app with Maven</li> 
+	<li>Resolve TODO (insert credentials for login/pass in tests class)</li></ul> 
 
 public class Facebooklogin {
  
